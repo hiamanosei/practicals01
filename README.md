@@ -1,2 +1,2 @@
 # practicals01
- a simple htcl and css
+ a simple html and css
