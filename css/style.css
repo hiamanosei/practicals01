@@ -1,0 +1,112 @@
+#tilez{
+background-image:url(../images/Asset.svg);
+  background-color: #fff; /* Used if the image is unavailable */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.m-contain{
+    padding: 7% 15%;
+    text-align: center;
+}
+body{
+  margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+h2,h1{
+   font-family: 'Dancing Script', cursive; 
+}
+h1{
+    font-size: 3rem;;
+    color: #D9B85C;
+    padding: 0;
+    margin: 0;
+}
+h2{
+    font-size: 5rem;
+    padding: 0;
+    margin: 0;
+     color: #3C7EA6;
+        
+}
+.enjoy-txt{
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    color:    #8F8F8F;
+}
+.navbar{
+    padding:1rem;
+      font-family: 'Raleway', sans-serif;
+}
+.nav-item{
+  
+    padding: 0 1rem;
+    font-size: 1.2rem;
+}
+.navbar-brand{
+   font-weight: 700;
+     font-size: 2rem;
+    padding-left: 17%;
+   
+}
+
+#completed{
+    text-align: center;
+    padding: 7% 15%
+}
+.card-head{
+    color: #fff;
+}
+#skills{
+    padding: 7% 1%;
+    background-color: #3C7EA6;
+    text-align: center;
+    color: #fff;
+}
+.carousel-item{
+    padding: 0 10% 10%;
+    line-height: 3;
+    margin-top: 2rem;
+}
+.star-img{
+    color: yellow;
+}
+
+#footer{
+    margin: 0;
+    padding: 5% 5%;
+    background-color: #3C7EA6;
+    color: white;
+    text-align: center;
+}
+h3{
+    font-family: 'Raleway', sans-serif;
+    font-weight:bold;
+    font-size: 2.5rem;
+}
+h5{
+     font-family: 'Raleway', sans-serif;
+     font-weight:bold;
+}
+
+#Interest{
+    text-align: center;
+    padding: 7% 15%;
+    line-height: 2;
+   
+        
+}
+#Interest h3{
+   color: #3C7EA6;  
+    
+}
+.falafa{
+    color: #D9B85C;
+}
+.skills-txt{
+    margin-top: 3rem;
+}
+.interest-img{
+    padding: 2rem;
+
+}
